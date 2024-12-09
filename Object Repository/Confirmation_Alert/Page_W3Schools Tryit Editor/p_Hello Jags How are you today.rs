@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Hello Jags How are you today</name>
+   <tag></tag>
+   <elementGuidId>ba7dd3b1-9658-4857-a129-5bd36b53c05f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='demo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#demo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Hello Jags! How are you today?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>29b3394b-c319-433b-9012-420c09124ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>demo</value>
+      <webElementGuid>f019465d-5ad7-41bf-a1dd-86b1e28cda2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello Jags! How are you today?</value>
+      <webElementGuid>1f2807bc-26f5-415c-91da-31fff0e5e916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;demo&quot;)</value>
+      <webElementGuid>6aa2acd7-d0b8-4614-abd5-0cb3ca9ef3a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Confirmation_Alert/Page_W3Schools Tryit Editor/iframe__iframeResult</value>
+      <webElementGuid>fd64feeb-eb2c-40ab-ba39-c3c64a9e5f20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='demo']</value>
+      <webElementGuid>aaa8a9ae-03c6-4798-b639-e68193fa66d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try it'])[1]/following::p[1]</value>
+      <webElementGuid>d675932b-c2cc-4aa2-a73b-3b7b1324383e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript Prompt'])[1]/following::p[1]</value>
+      <webElementGuid>e6b6efc3-3a80-450e-9070-d7f66d2f988e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hello Jags! How are you today?']/parent::*</value>
+      <webElementGuid>3b837efe-fe20-44a4-8d0f-4ed411503bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>1a2521c1-53cb-44b2-b436-a315216b391f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'demo' and (text() = 'Hello Jags! How are you today?' or . = 'Hello Jags! How are you today?')]</value>
+      <webElementGuid>d86bb27f-0e41-42ad-8d7e-2c5bd13fe990</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
