@@ -28,13 +28,15 @@ WebUI.click(findTestObject('Object Repository/Confirmation_Alert/Page_W3Schools 
 WebUI.verifyAlertPresent(2)
 
 AlertText = WebUI.getAlertText()
-printin("Alert Text is : "+ AlertText)
+
+not_run: printin('Alert Text is : ' + AlertText)
 
 'Set Alert is used for enter the Text in to Box.'
 WebUI.setAlertText('Jags')
 
-
 WebUI.acceptAlert()
+
+WebUI.delay(2)
 
 WebUI.closeBrowser()
 
